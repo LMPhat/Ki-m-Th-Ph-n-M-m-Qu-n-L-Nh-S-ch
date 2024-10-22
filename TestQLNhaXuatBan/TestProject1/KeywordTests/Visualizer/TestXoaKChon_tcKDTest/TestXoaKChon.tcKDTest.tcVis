@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{86E00FDE-1F87-4D60-A2DF-5B85629CFCF6}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45243.3737268519" objectName="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_btn_NXB.btnXoa_NXB" objectLeft="545" objectTop="275" objectRight="632" objectBottom="306" clickPointX="573" clickPointY="291" imageFileName="tcvi170470343441.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45243.3738888889" objectName="Aliases.DoAnCongNgheNet.dlg.btnOK" objectLeft="122" objectTop="99" objectRight="197" objectBottom="122" clickPointX="165" clickPointY="111" imageFileName="tcvi171910943444.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

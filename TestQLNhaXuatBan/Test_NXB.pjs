@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{2050055A-009B-4200-A538-F6EC3096A995}">
+	<children>
+		<child name="TestNXB" key="{C32174F8-301A-4D0A-8CD0-D568692574E6}" path="TestProject1\TestNXB.mds" />
+	</children>
+	<testItems key="{81FB09E5-30D6-4DDD-821C-C0D550EA7BE5}">
+		<children>
+			<testItem key="{C32174F8-301A-4D0A-8CD0-D568692574E6}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{A33089A6-B6A7-4BC6-91DC-7A0B318EE370}" />
+	<analysis key="{4BE8AF50-813B-471E-B519-0F70AECECB58}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

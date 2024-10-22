@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{6B727986-C97A-4EEF-B6DE-55F6934B467B}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="DoAnCongNgheNet" Key="{24430516-C2EE-4B98-81BE-101C9B4A9AF2}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="DoAnCongNgheNet" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="frm_Main" Key="{0569438B-FA31-4233-9277-206C2F6567DF}">
+								<Image FileName="306773147" Left="0" Top="0" Right="1920" Bottom="1034" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="frm_Main" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="TabControlForm" Key="{C0D1099F-9C47-4589-81FD-AF0F87F85C26}">
+										<Image FileName="306773147" Left="21" Top="90" Right="1899" Bottom="1014" />
+										<TypeInfo Item0="{FDF5F670-3FF8-4C16-9803-4749256ABEC3}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="TabControlForm" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TabPageDM" Key="{AF604A9C-FFB8-419A-B40C-AF98DD1A23C9}">
+												<Image FileName="683667667" Left="27" Top="156" Right="1893" Bottom="1008" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="TabPageDM" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TabControl_DM" Key="{E7634379-F86C-4411-A81A-D6B1C843664D}">
+														<Image FileName="683667667" Left="27" Top="156" Right="1893" Bottom="1008" />
+														<TypeInfo Item0="{FDF5F670-3FF8-4C16-9803-4749256ABEC3}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="TabControl_DM" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="TabPageNXB" Key="{DFF06C8D-B378-46A1-9D2C-FA0172FEC074}">
+																<Image FileName="-1598138308" Left="33" Top="213" Right="1887" Bottom="1002" />
+																<TypeInfo Item0="{281A90F7-5A84-445E-91DB-CE7579F43E74}" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="TabPageNXB" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="tableLayoutPanel23" Key="{5597A35C-A1A5-484D-90BF-6899A4C2D6CB}">
+																		<Image FileName="-1598138308" Left="33" Top="213" Right="1887" Bottom="1002" />
+																		<TypeInfo Item0="{281A90F7-5A84-445E-91DB-CE7579F43E74}" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="tableLayoutPanel23" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tableLayoutPanel24" Key="{65629F49-6958-4E63-A607-65498A2DB78A}">
+																				<Image FileName="-1598138308" Left="36" Top="215" Right="1884" Bottom="464" />
+																				<TypeInfo Item0="{281A90F7-5A84-445E-91DB-CE7579F43E74}" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="tableLayoutPanel24" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="tableLayoutPanel25" Key="{7EB2E7D0-9D84-42C9-8BB6-EA6E320BDA69}">
+																						<Image FileName="-1598138308" Left="39" Top="258" Right="1881" Bottom="462" />
+																						<TypeInfo Item0="{281A90F7-5A84-445E-91DB-CE7579F43E74}" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="tableLayoutPanel25" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="tbl_txt_NXB" Key="{16243867-5F32-43BB-A588-B56C1070CD81}">
+																								<Image FileName="-1598138308" Left="42" Top="260" Right="1878" Bottom="380" />
+																								<TypeInfo Item0="{281A90F7-5A84-445E-91DB-CE7579F43E74}" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="tbl_txt_NXB" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="txtTenNXB_NXB" Key="{8F6DECC0-131F-4E3A-85BF-799C254F230E}">
+																										<Image FileName="-1598138308" Left="347" Top="302" Right="622" Bottom="337" />
+																										<TypeInfo Item0="{281A90F7-5A84-445E-91DB-CE7579F43E74}" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="txtTenNXB_NXB" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="PromptedTextBox" Key="{DA0E4238-B753-4CE4-A72D-06D030B67316}">
+																												<Image FileName="-1598138308" Left="351" Top="306" Right="617" Bottom="330" />
+																												<TypeInfo Item0="{4CE64066-FF63-4245-8508-6654CE4F86BA}" />
+																												<Properties>
+																													<Property Name="ClrFullClassName">
+																														<Value Value="MetroFramework.Controls.MetroTextBox+PromptedTextBox" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="txtDChiNXB_NXB" Key="{E1F27F2C-4089-40A5-AFAD-EF97C2F156A1}">
+																										<Image FileName="-1598138308" Left="719" Top="302" Right="1013" Bottom="337" />
+																										<TypeInfo Item0="{281A90F7-5A84-445E-91DB-CE7579F43E74}" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="txtDChiNXB_NXB" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="PromptedTextBox" Key="{911D4F73-016C-4276-8A8F-75314C9B0CEC}">
+																												<Image FileName="-1598138308" Left="723" Top="306" Right="1008" Bottom="330" />
+																												<TypeInfo Item0="{4CE64066-FF63-4245-8508-6654CE4F86BA}" />
+																												<Properties>
+																													<Property Name="ClrFullClassName">
+																														<Value Value="MetroFramework.Controls.MetroTextBox+PromptedTextBox" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="txtSdtNXB_NXB" Key="{F7EC800F-A1D9-494C-B54C-2CA0BAD42FB1}">
+																										<Image FileName="-1598138308" Left="1170" Top="302" Right="1464" Bottom="337" />
+																										<TypeInfo Item0="{281A90F7-5A84-445E-91DB-CE7579F43E74}" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="txtSdtNXB_NXB" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="PromptedTextBox" Key="{BE7CD091-9868-4307-986C-44EA94B13E94}">
+																												<Image FileName="-1598138308" Left="1175" Top="306" Right="1460" Bottom="330" />
+																												<TypeInfo Item0="{4CE64066-FF63-4245-8508-6654CE4F86BA}" />
+																												<Properties>
+																													<Property Name="ClrFullClassName">
+																														<Value Value="MetroFramework.Controls.MetroTextBox+PromptedTextBox" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="tbl_btn_NXB" Key="{4A065F21-64A0-49FF-80D2-E7C4732CAA0E}">
+																								<Image FileName="1449521993" Left="28" Top="263" Right="1272" Bottom="319" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="tbl_btn_NXB" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="btnXoa_NXB" Key="{C54B92A3-B5DB-42F2-B14D-08E860B03899}">
+																										<Image FileName="1449521993" Left="545" Top="275" Right="632" Bottom="306" />
+																										<TypeInfo Item0="{405DB2E1-DDAA-4E66-87B5-DF17E1319FD9}" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="btnXoa_NXB" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlg" Key="{636ABD82-1C90-4688-ACA0-D835BE6FFC5D}">
+								<Image FileName="288341257" Left="0" Top="0" Right="342" Bottom="210" />
+								<TypeInfo Item0="{E754E20D-AB47-473D-B7C2-9916298753DD}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Static" Key="{D0FFA2A8-8A44-4197-A598-D311B580C0D1}">
+										<Image FileName="288341257" Left="29" Top="81" Right="286" Bottom="104" />
+										<TypeInfo Item0="{1EEAD0D7-91BA-460F-B665-3B2C4FF4F1E5}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Thêm thành công Nhà Xuất Bản !" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnOK" Key="{926C5C97-AFC3-4F82-A3F7-18055073A4A8}">
+										<Image FileName="-1957523468" Left="195" Top="149" Right="308" Bottom="184" />
+										<TypeInfo Item0="{405DB2E1-DDAA-4E66-87B5-DF17E1319FD9}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static2" Key="{D0377AC7-00D5-4F3A-8A04-624B2DCC5EA7}">
+										<Image FileName="621983566" Left="19" Top="54" Right="148" Bottom="69" />
+										<TypeInfo Item0="{1EEAD0D7-91BA-460F-B665-3B2C4FF4F1E5}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Thêm không thành công" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static3" Key="{23976269-E033-4F31-949B-33748E1F60B8}">
+										<Image FileName="-291653101" Left="19" Top="54" Right="261" Bottom="69" />
+										<TypeInfo Item0="{1EEAD0D7-91BA-460F-B665-3B2C4FF4F1E5}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Phải thêm đầy đủ thông tin của Nhà Xuất Bản !" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static4" Key="{EBE7EC67-9C82-40D2-BA8E-87159A2BEA57}">
+										<Image FileName="189104423" Left="19" Top="54" Right="225" Bottom="69" />
+										<TypeInfo Item0="{1EEAD0D7-91BA-460F-B665-3B2C4FF4F1E5}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Sửa Nhà Xuất Bản NXB004 thành công ! " />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static5" Key="{94C7ACE4-B594-44EC-AB16-204811C71F49}">
+										<Image FileName="1817962297" Left="19" Top="54" Right="225" Bottom="69" />
+										<TypeInfo Item0="{1EEAD0D7-91BA-460F-B665-3B2C4FF4F1E5}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Bạn phải chọn 1 dòng trên bản để sửa !" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static6" Key="{71CAB679-805C-4B62-8478-5D3BC6877EF5}">
+										<Image FileName="-942099808" Left="70" Top="64" Right="244" Bottom="79" />
+										<TypeInfo Item0="{1EEAD0D7-91BA-460F-B665-3B2C4FF4F1E5}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Bạn chắc chắn muốn xóa không ?" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnNo" Key="{E1878A96-7C75-4FA3-8CAC-B211AB260BA6}">
+										<Image FileName="1311394932" Left="182" Top="119" Right="257" Bottom="142" />
+										<TypeInfo Item0="{405DB2E1-DDAA-4E66-87B5-DF17E1319FD9}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;No" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnYes" Key="{96611CCA-22DB-450A-8FBB-EAC1CD733D51}">
+										<Image FileName="377900924" Left="100" Top="119" Right="175" Bottom="142" />
+										<TypeInfo Item0="{405DB2E1-DDAA-4E66-87B5-DF17E1319FD9}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Yes" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static7" Key="{F2E66366-B2E3-4952-9A92-FAB919B9BCA8}">
+										<Image FileName="-1570862234" Left="19" Top="54" Right="139" Bottom="69" />
+										<TypeInfo Item0="{1EEAD0D7-91BA-460F-B665-3B2C4FF4F1E5}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Xóa không thành công" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static8" Key="{562BA7A2-BF6D-4340-B202-F1EA745649E4}">
+										<Image FileName="-2108648230" Left="19" Top="54" Right="216" Bottom="69" />
+										<TypeInfo Item0="{1EEAD0D7-91BA-460F-B665-3B2C4FF4F1E5}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Xóa thành công Nhà Xuất Bản NXB004" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static9" Key="{892C1780-4C07-4022-B04D-7D5715AABF15}">
+										<Image FileName="-104396282" Left="19" Top="54" Right="183" Bottom="69" />
+										<TypeInfo Item0="{5733159E-DFBB-4F30-A91E-97619CB0E306}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Hãy chọn dòng bạn muốn xóa !" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="DoAnCongNgheNet" Owner="{24430516-C2EE-4B98-81BE-101C9B4A9AF2}">
+			<Child Name="frm_Main" Owner="{0569438B-FA31-4233-9277-206C2F6567DF}">
+				<Child Name="TabControlForm" Owner="{C0D1099F-9C47-4589-81FD-AF0F87F85C26}">
+					<Child Name="TabPageDM" Owner="{AF604A9C-FFB8-419A-B40C-AF98DD1A23C9}">
+						<Child Name="TabControl_DM" Owner="{E7634379-F86C-4411-A81A-D6B1C843664D}">
+							<Child Name="TabPageNXB" Owner="{DFF06C8D-B378-46A1-9D2C-FA0172FEC074}">
+								<Child Name="tableLayoutPanel23" Owner="{5597A35C-A1A5-484D-90BF-6899A4C2D6CB}">
+									<Child Name="tableLayoutPanel24" Owner="{65629F49-6958-4E63-A607-65498A2DB78A}">
+										<Child Name="tableLayoutPanel25" Owner="{7EB2E7D0-9D84-42C9-8BB6-EA6E320BDA69}">
+											<Child Name="tbl_txt_NXB" Owner="{16243867-5F32-43BB-A588-B56C1070CD81}">
+												<Child Name="txtTenNXB_NXB" Owner="{8F6DECC0-131F-4E3A-85BF-799C254F230E}">
+													<Child Name="PromptedTextBox" Owner="{DA0E4238-B753-4CE4-A72D-06D030B67316}" />
+												</Child>
+												<Child Name="txtDChiNXB_NXB" Owner="{E1F27F2C-4089-40A5-AFAD-EF97C2F156A1}">
+													<Child Name="PromptedTextBox" Owner="{911D4F73-016C-4276-8A8F-75314C9B0CEC}" />
+												</Child>
+												<Child Name="txtSdtNXB_NXB" Owner="{F7EC800F-A1D9-494C-B54C-2CA0BAD42FB1}">
+													<Child Name="PromptedTextBox" Owner="{BE7CD091-9868-4307-986C-44EA94B13E94}" />
+												</Child>
+											</Child>
+											<Child Name="tbl_btn_NXB" Owner="{4A065F21-64A0-49FF-80D2-E7C4732CAA0E}">
+												<Child Name="btnXoa_NXB" Owner="{C54B92A3-B5DB-42F2-B14D-08E860B03899}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="dlg" Owner="{636ABD82-1C90-4688-ACA0-D835BE6FFC5D}">
+				<Child Name="Static" Owner="{D0FFA2A8-8A44-4197-A598-D311B580C0D1}" />
+				<Child Name="btnOK" Owner="{926C5C97-AFC3-4F82-A3F7-18055073A4A8}" />
+				<Child Name="Static2" Owner="{D0377AC7-00D5-4F3A-8A04-624B2DCC5EA7}" />
+				<Child Name="Static3" Owner="{23976269-E033-4F31-949B-33748E1F60B8}" />
+				<Child Name="Static4" Owner="{EBE7EC67-9C82-40D2-BA8E-87159A2BEA57}" />
+				<Child Name="Static5" Owner="{94C7ACE4-B594-44EC-AB16-204811C71F49}" />
+				<Child Name="Static6" Owner="{71CAB679-805C-4B62-8478-5D3BC6877EF5}" />
+				<Child Name="btnNo" Owner="{E1878A96-7C75-4FA3-8CAC-B211AB260BA6}" />
+				<Child Name="btnYes" Owner="{96611CCA-22DB-450A-8FBB-EAC1CD733D51}" />
+				<Child Name="Static7" Owner="{F2E66366-B2E3-4952-9A92-FAB919B9BCA8}" />
+				<Child Name="Static8" Owner="{562BA7A2-BF6D-4340-B202-F1EA745649E4}" />
+				<Child Name="Static9" Owner="{892C1780-4C07-4022-B04D-7D5715AABF15}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

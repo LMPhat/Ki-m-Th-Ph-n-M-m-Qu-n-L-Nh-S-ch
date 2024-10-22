@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="TestLoadForm" key="{32B7921E-229B-4CBA-9F36-B1DB58F1B8D4}" path="TestLoadForm.tcKDTest" />
+		<child name="TestThemHL" key="{A9F3C626-FD08-417F-9C79-3771E2593BD9}" path="..\..\..\..\TestQLNXB\TestNXB\KeywordTests\TestThemHL.tcKDTest" />
+		<child name="TestThemKTC" key="{57319DD1-E94E-4DD4-A8A1-634FB27634D7}" path="..\..\..\..\TestQLNXB\TestNXB\KeywordTests\TestThemKTC.tcKDTest" />
+		<child name="TestThemThieuDL" key="{0DBF53AE-7982-4594-80EB-70D22D435FA9}" path="..\..\..\..\TestQLNXB\TestNXB\KeywordTests\TestThemThieuDL.tcKDTest" />
+		<child name="TestSuaTC" key="{3BF1ECC6-599C-49CC-9DFB-46590E403336}" path="..\..\..\..\TestQLNXB\TestSuatNXB\KeywordTests\TestSuaTC.tcKDTest" />
+		<child name="TestSuaKChon" key="{E4CE2BFA-ADB4-4D03-AE6B-3217AC406E1D}" path="..\..\..\..\TestQLNXB\TestSuatNXB\KeywordTests\TestSuaKChon.tcKDTest" />
+		<child name="TestXoaChonNo" key="{5CBC173C-5399-4D76-9F09-55DFD91DDC19}" path="..\..\..\..\TestQLNXB\TestXoaNXB\KeywordTests\TestXoaChonNo.tcKDTest" />
+		<child name="TestXoaKTC_NXB001" key="{DCF649FF-8DAD-4C4E-8915-A266458677FB}" path="..\..\..\..\TestQLNXB\TestXoaNXB\KeywordTests\TestXoaKTC_NXB001.tcKDTest" />
+		<child name="TestXoaTC_NXB004" key="{67988AA5-ACCB-419B-BBB4-E413861B35C9}" path="..\..\..\..\TestQLNXB\TestXoaNXB\KeywordTests\TestXoaTC_NXB004.tcKDTest" />
+		<child name="TestXoaKChon" key="{86E00FDE-1F87-4D60-A2DF-5B85629CFCF6}" path="TestXoaKChon.tcKDTest" />
+	</children>
+</Root>

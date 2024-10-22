@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object right" type="I" value="900"/>
+					<Prp name="object left" type="I" value="726"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="datetime" type="D" value="45233.6278587963"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="tcvi131925016722.png"/>
+					<Prp name="object bottom" type="I" value="624"/>
+					<Prp name="click point x" type="I" value="398"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_btn_NXB.btnThem_NXB"/>
+					<Prp name="object top" type="I" value="562"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="291"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage0_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="676"/>
+					<Prp name="object left" type="I" value="545"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="datetime" type="D" value="45242.2978903935"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+					<Prp name="object bottom" type="I" value="445"/>
+					<Prp name="click point x" type="I" value="610"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.WinFormsObject(&quot;tbl_btn_NXB&quot;).WinFormsObject(&quot;btnThem_NXB&quot;)"/>
+					<Prp name="object top" type="I" value="398"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="421"/>
+				</Node>
+			</Node>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.5895582639"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;).WinFormsObject(&quot;TabPageDM&quot;).WinFormsObject(&quot;TabControl_DM&quot;).WinFormsObject(&quot;TabPageNXB&quot;).WinFormsObject(&quot;tableLayoutPanel23&quot;).WinFormsObject(&quot;tableLayoutPanel24&quot;).WinFormsObject(&quot;tableLayoutPanel25&quot;).WinFormsObject(&quot;tbl_btn_NXB&quot;).WinFormsObject(&quot;btnThem_NXB&quot;)"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Node name="item 1">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="TestThemHL()"/>
+			<Prp name="line no" type="I" value="10"/>
+		</Node>
+		<Node name="item 2">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="TestThemHL()"/>
+			<Prp name="line no" type="I" value="10"/>
+		</Node>
+		<Node name="message 8">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object right" type="I" value="1446"/>
+					<Prp name="object left" type="I" value="1272"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="datetime" type="D" value="45233.6283449074"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="tcvi136079616728.png"/>
+					<Prp name="object bottom" type="I" value="624"/>
+					<Prp name="click point x" type="I" value="668"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_btn_NXB.btnLuu_NXB"/>
+					<Prp name="object top" type="I" value="562"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="294"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage6_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1085"/>
+					<Prp name="object left" type="I" value="954"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="datetime" type="D" value="45242.2978999884"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+					<Prp name="object bottom" type="I" value="445"/>
+					<Prp name="click point x" type="I" value="1019"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.WinFormsObject(&quot;tbl_btn_NXB&quot;).WinFormsObject(&quot;btnLuu_NXB&quot;)"/>
+					<Prp name="object top" type="I" value="398"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="421"/>
+				</Node>
+			</Node>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.5895674653"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;).WinFormsObject(&quot;TabPageDM&quot;).WinFormsObject(&quot;TabControl_DM&quot;).WinFormsObject(&quot;TabPageNXB&quot;).WinFormsObject(&quot;tableLayoutPanel23&quot;).WinFormsObject(&quot;tableLayoutPanel24&quot;).WinFormsObject(&quot;tableLayoutPanel25&quot;).WinFormsObject(&quot;tbl_btn_NXB&quot;).WinFormsObject(&quot;btnLuu_NXB&quot;)"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Node name="item 3">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="TestThemHL()"/>
+			<Prp name="line no" type="I" value="10"/>
+		</Node>
+		<Node name="message 1">
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.5895558449"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM&#xA;(Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;).WinFormsObject(&quot;TabPageDM&quot;).WinFormsObject(&quot;TabControl_DM&quot;))"/>
+			<Prp name="message" type="S" value="The tab control page 'Nhà Xuất &amp;&amp;Bản' is already selected."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object right" type="I" value="1946"/>
+					<Prp name="object left" type="I" value="1566"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="datetime" type="D" value="45233.6282060185"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="tcvi134917116726.png"/>
+					<Prp name="object bottom" type="I" value="456"/>
+					<Prp name="click point x" type="I" value="861"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtSdtNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="424"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="219"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage4_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1460"/>
+					<Prp name="object left" type="I" value="1175"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="datetime" type="D" value="45242.2978969097"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+					<Prp name="object bottom" type="I" value="330"/>
+					<Prp name="click point x" type="I" value="1292"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtSdtNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="306"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="317"/>
+				</Node>
+			</Node>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.5895645718"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="remarks" type="S" value="A click at point (78, 7) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtSdtNXB_NXB.PromptedTextBox&#xA;(Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;).WinFormsObject(&quot;TabPageDM&quot;).WinFormsObject(&quot;TabControl_DM&quot;).WinFormsObject(&quot;TabPageNXB&quot;).WinFormsObject(&quot;tableLayoutPanel23&quot;).WinFormsObject(&quot;tableLayoutPanel24&quot;).WinFormsObject(&quot;tableLayoutPanel25&quot;).WinFormsObject(&quot;tbl_txt_NXB&quot;).WinFormsObject(&quot;txtSdtNXB_NXB&quot;).WinFormsObject(&quot;PromptedTextBox&quot;, &quot;&quot;))"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Node name="item 0">
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="stacktext" type="S" value="TestThemHL()"/>
+			<Prp name="line no" type="I" value="10"/>
+		</Node>
+		<Node name="message 11">
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="stack beginning" type="I" value="2"/>
+			<Prp name="date" type="D" value="45242.5896871412"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture2.png"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="stack end" type="I" value="2"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="11"/>
+			<Prp name="remarks" type="S" value="&lt;p&gt;Unable to perform a property checkpoint, because the object does not have a property named &quot;WndCaption&quot;.&lt;/p&gt;&lt;p style='margin-bottom: 0px'&gt;Tested object:&lt;/p&gt;(Object)"/>
+			<Prp name="message" type="S" value="Unable to perform a property checkpoint, because the object does not have a property named &quot;WndCaption&quot;."/>
+			<Prp name="pictype" type="I" value="2"/>
+		</Node>
+		<Node name="message 10">
+			<Prp name="priority" type="I" value="400"/>
+			<Prp name="stack beginning" type="I" value="1"/>
+			<Prp name="date" type="D" value="45242.5896514352"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="stack end" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="10"/>
+			<Prp name="remarks" type="S" value="You are trying to call the &quot;Static&quot; method or property of the &quot;dlg&quot; object that does not exist."/>
+			<Prp name="message" type="S" value="The object &quot;dlg&quot; does not exist."/>
+			<Prp name="pictype" type="I" value="2"/>
+		</Node>
+		<Node name="message 9">
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="stack beginning" type="I" value="0"/>
+			<Prp name="date" type="D" value="45242.5896509491"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="stack end" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;p&gt;The object with the specified attributes does not exist.&lt;/p&gt;&lt;p style=&quot;margin-top: 12px;&quot;&gt;&lt;a href=&quot;aqa-help://2202&quot;&gt;Possible causes of the error&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;&lt;br /&gt;&lt;br /&gt;Tested object:&lt;br /&gt;Aliases.DoAnCongNgheNet"/>
+			<Prp name="message" type="S" value="Unable to find the object dlg. See Details for additional information."/>
+			<Prp name="pictype" type="I" value="2"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.589555162"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.DoAnCongNgheNet.frm_Main.TabControlForm&#xA;(Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;))"/>
+			<Prp name="message" type="S" value="The tab control page 'Danh Mục' is already selected."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="datetime" type="D" value="45233.6282638889"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="tcvi135090616727.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtSdtNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage5_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1460"/>
+					<Prp name="object left" type="I" value="1175"/>
+					<Prp name="line #" type="I" value="8"/>
+					<Prp name="datetime" type="D" value="45242.2978984606"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage5.png"/>
+					<Prp name="object bottom" type="I" value="330"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtSdtNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="306"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.5895658102"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtSdtNXB_NXB.PromptedTextBox&#xA;(Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;).WinFormsObject(&quot;TabPageDM&quot;).WinFormsObject(&quot;TabControl_DM&quot;).WinFormsObject(&quot;TabPageNXB&quot;).WinFormsObject(&quot;tableLayoutPanel23&quot;).WinFormsObject(&quot;tableLayoutPanel24&quot;).WinFormsObject(&quot;tableLayoutPanel25&quot;).WinFormsObject(&quot;tbl_txt_NXB&quot;).WinFormsObject(&quot;txtSdtNXB_NXB&quot;).WinFormsObject(&quot;PromptedTextBox&quot;, &quot;&quot;))"/>
+			<Prp name="message" type="S" value="The text '0123456789' was entered in the text editor."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{3164AB7B-44F5-44CD-957A-B1A60629C202}"/>
+		</Node>
+		<Node name="message 12">
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="stack beginning" type="I" value="3"/>
+			<Prp name="date" type="D" value="45242.5896876736"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value="Picture2.png"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="10"/>
+			<Prp name="stack end" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="12"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;p&gt;The test run has stopped because --&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An error message was posted to the log and&lt;/li&gt;&lt;li&gt;The &lt;a href=&quot;aqa-help://6090&quot;&gt;On error&lt;/a&gt; project property is set to &quot;Stop project&quot; or &quot;Stop current item&quot;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If you don't want the test to stop on errors, set this property (&lt;b&gt;Project Editor &amp;rArr; Properties &amp;rArr; Playback&lt;/b&gt;), to &quot;Continue running&quot; or change your test commands so that they do not post errors to the log automatically. For example, if a window or process was not found, use WaitWindow, WaitProcess or similar methods to get the needed object.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;aqa-help://2207&quot;&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="message" type="S" value="The test run has stopped because your test project is configured to stop on errors."/>
+			<Prp name="pictype" type="I" value="2"/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="datetime" type="D" value="45233.6279166667"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="tcvi132139016723.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtTenNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage1_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="617"/>
+					<Prp name="object left" type="I" value="351"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="datetime" type="D" value="45242.2978922338"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+					<Prp name="object bottom" type="I" value="330"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtTenNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="306"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.5895596528"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtTenNXB_NXB.PromptedTextBox&#xA;(Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;).WinFormsObject(&quot;TabPageDM&quot;).WinFormsObject(&quot;TabControl_DM&quot;).WinFormsObject(&quot;TabPageNXB&quot;).WinFormsObject(&quot;tableLayoutPanel23&quot;).WinFormsObject(&quot;tableLayoutPanel24&quot;).WinFormsObject(&quot;tableLayoutPanel25&quot;).WinFormsObject(&quot;tbl_txt_NXB&quot;).WinFormsObject(&quot;txtTenNXB_NXB&quot;).WinFormsObject(&quot;PromptedTextBox&quot;, &quot;&quot;))"/>
+			<Prp name="message" type="S" value="The text 'Nhà Xuất Bản ABC' was entered in the text editor."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="datetime" type="D" value="45233.6280787037"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="tcvi133707816725.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtDChiNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage3_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1008"/>
+					<Prp name="object left" type="I" value="723"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="datetime" type="D" value="45242.2978953588"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+					<Prp name="object bottom" type="I" value="330"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtDChiNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="306"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+			</Node>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.5895627315"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtDChiNXB_NXB.PromptedTextBox&#xA;(Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;).WinFormsObject(&quot;TabPageDM&quot;).WinFormsObject(&quot;TabControl_DM&quot;).WinFormsObject(&quot;TabPageNXB&quot;).WinFormsObject(&quot;tableLayoutPanel23&quot;).WinFormsObject(&quot;tableLayoutPanel24&quot;).WinFormsObject(&quot;tableLayoutPanel25&quot;).WinFormsObject(&quot;tbl_txt_NXB&quot;).WinFormsObject(&quot;txtDChiNXB_NXB&quot;).WinFormsObject(&quot;PromptedTextBox&quot;, &quot;&quot;))"/>
+			<Prp name="message" type="S" value="The text '140 Đường Lê Trọng Tấn' was entered in the text editor."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="object right" type="I" value="1344"/>
+					<Prp name="object left" type="I" value="964"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="datetime" type="D" value="45233.6280324074"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="tcvi133417116724.png"/>
+					<Prp name="object bottom" type="I" value="456"/>
+					<Prp name="click point x" type="I" value="533"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtDChiNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="424"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="220"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage2_Dif.png"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="-1"/>
+				</Node>
+				<Node name="current">
+					<Prp name="object right" type="I" value="1008"/>
+					<Prp name="object left" type="I" value="723"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="datetime" type="D" value="45242.2978937963"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+					<Prp name="object bottom" type="I" value="330"/>
+					<Prp name="click point x" type="I" value="800"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="object name" type="S" value="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtDChiNXB_NXB.PromptedTextBox"/>
+					<Prp name="object top" type="I" value="306"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="click point y" type="I" value="318"/>
+				</Node>
+			</Node>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="date" type="D" value="45242.5895614815"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="remarks" type="S" value="A click at point (51, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageDM.TabControl_DM.TabPageNXB.tableLayoutPanel23.tableLayoutPanel24.tableLayoutPanel25.tbl_txt_NXB.txtDChiNXB_NXB.PromptedTextBox&#xA;(Sys.Process(&quot;DoAnCongNgheNet&quot;).WinFormsObject(&quot;frm_Main&quot;).WinFormsObject(&quot;TabControlForm&quot;).WinFormsObject(&quot;TabPageDM&quot;).WinFormsObject(&quot;TabControl_DM&quot;).WinFormsObject(&quot;TabPageNXB&quot;).WinFormsObject(&quot;tableLayoutPanel23&quot;).WinFormsObject(&quot;tableLayoutPanel24&quot;).WinFormsObject(&quot;tableLayoutPanel25&quot;).WinFormsObject(&quot;tbl_txt_NXB&quot;).WinFormsObject(&quot;txtDChiNXB_NXB&quot;).WinFormsObject(&quot;PromptedTextBox&quot;, &quot;&quot;))"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+			<Prp name="pictype" type="I" value="0"/>
+		</Node>
+		<Prp name="status" type="I" value="2"/>
+	</Node>
+</Nodes>
